@@ -1,1 +1,1 @@
-# ip_scrapper
+# Patent Data Mining Repo
